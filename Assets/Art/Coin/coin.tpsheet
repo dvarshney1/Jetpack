@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:73ff7cc10e45aceecfbf61959c3ebc64:f8342f4cf6933b3ba74a7179c6290a86:990400944594fd56bec2a77d570fb92f$
+#
+:format=40300
+:texture=coinsSheet.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+star coin rotate 1;1;743;279;280; 0.5;0.5; 0;0;0;0
+star coin rotate 2;1;461;245;280; 0.5;0.5; 0;0;0;0
+star coin rotate 3;248;461;132;280; 0.5;0.5; 0;0;0;0
+star coin rotate 4;382;461;42;280; 0.5;0.5; 0;0;0;0
+star coin rotate 5;1;179;132;280; 0.5;0.5; 0;0;0;0
+star coin rotate 6;135;179;245;280; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - TopCeiling
+  - BottomCeiling
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 16653577
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 138691547
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3162849233
+    locked: 0
+  - name: Interactable
+    uniqueID: 882623785
+    locked: 0
+  - name: Ceiling
+    uniqueID: 1526977255
+    locked: 0
+  - name: Player
+    uniqueID: 3721810547
+    locked: 0
